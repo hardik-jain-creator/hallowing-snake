@@ -1,5 +1,5 @@
 Hallowing Snake
-***************
+**************
 
 This is a very simple game for Adafruit's Hallowing M0 Express board,
 demonstrating use of the new ``displayio`` mode from CircuitPython 4.0.
